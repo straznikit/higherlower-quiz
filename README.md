@@ -10,5 +10,9 @@ This Python script is a simple quiz game where players choose between options A 
 - This quiz game provides a fun and interactive way to test your knowledge of popular Instagram accounts while accumulating points based on correct guesses. Enjoy the game and see how many points you can score!
 
 ## Dependencies:
-
 Python 3.12
+
+## Contributing:
+
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, please feel free to submit a pull request or open an issue in the repository.
+
