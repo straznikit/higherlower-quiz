@@ -8,3 +8,7 @@ This Python script is a simple quiz game where players choose between options A 
 - If the player guesses correctly, the game continues, and points are accumulated.
 - If the player makes a wrong guess, the quiz ends, and the total points accumulated are displayed.
 - This quiz game provides a fun and interactive way to test your knowledge of popular Instagram accounts while accumulating points based on correct guesses. Enjoy the game and see how many points you can score!
+
+## Dependencies:
+
+Python 3.12
